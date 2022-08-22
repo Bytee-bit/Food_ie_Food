@@ -11,11 +11,12 @@ This food shopping app for ordring delicious food
 
 ## Screen shot
 
-![A test img](src/screenshot/HomePage.png)
-![A test img](src/screenshot/ProductPage.png)
-![A test img](src/screenshot/CartItems.png)
-![A test img](src/screenshot/ProductsDB.png)
-![A test img](src/screenshot/API.png)
+![A test img](frontend/src/screenshot/HomePage.png)
+
+<!-- ![A test img](frontend/src/screenshot/ProductPage.png)
+![A test img](frontend/src/screenshot/CartItems.png)
+![A test img](frontend/src/screenshot/ProductsDB.png)
+![A test img](frontend/src/screenshot/API.png) -->
 
 ## Tool I used
 
