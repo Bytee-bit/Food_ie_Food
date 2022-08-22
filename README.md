@@ -27,7 +27,9 @@ This food shopping app for ordring delicious food
 - React-router-dom
 - HTML
 - CSS
-  **server side**
+
+**server side**
+
 - Node.js
 - Express.js
 - MongoDB
